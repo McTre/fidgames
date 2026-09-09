@@ -54,6 +54,7 @@ Ikkunan menettäessä fokuksen peli lukittuu automaattisesti. Jatka painamalla L
 
 ## Suunnitelmat ja ohjeet
 
+- [Did-And-Todo.md](Did-And-Todo.md) – viimeksi tehty työ ja seuraava vaihe; päivitetään jokaisen työvaiheen jälkeen.
 - [MasterPlan.md](MasterPlan.md) – laitteen idea ja tavoitteet.
 - [HardwarePlan.md](HardwarePlan.md) – suunniteltu laitteisto.
 - [SoftwarePlan.md](SoftwarePlan.md) – ohjelmisto ja pelinkehityksen periaatteet.
